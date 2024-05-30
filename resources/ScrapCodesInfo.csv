@@ -1,0 +1,175 @@
+Code ID,Code Description
+13,Assembly Error
+14,Attachment Button Shave
+16,Bad Tip Forming
+20,Bent
+24,Blade Does Not Pass Front Stop
+31,Box Damage
+38,Burn on Seal
+43,Contamination
+44,Continuity Fail
+45,Continuity Failure
+46,Cosmetic Defect
+47,"Cracks, Splits, or Chips"
+49,Cracked Plugs
+56,Damaged due to Disassembly of Rework Process
+58,Damaged Harness Cable
+65,Defective Components
+68,Deformation
+70,Device Key Not Reading Device
+73,Discolored Component
+75,Dropped Clips
+79,Engineering Instruction
+80,Engineering Sample
+84,Excessive Adhesive
+85,Expired Materials
+95,Fail Dimensional Over Size
+96,Fail Dimensional Under Size
+98,Fail Force Test
+103,Fail Pull Testing
+106,Failed Leak Test
+107,Failure to Lock Trigger
+108,Failure to Unlock Trigger
+115,Frayed Fibers
+116,Front and Middle Stops Not Touching
+117,Front Stops Not Touching
+119,Fuse Switch
+139,High Gap
+140,High Jaw Force
+141,High Jaw Gap
+148,IFU Retention Samples
+152,Incomplete Bonding
+159,Incorrect Configuration
+161,Incorrect Labeling
+163,Incorrect Quantity
+164,Incorrect/Missing Weld
+174,Insulation Damage
+176,Jaw Isolation
+177,Jaw Isolation Failure
+178,Jaw Short
+186,Label Damage
+193,Label Wrinkled
+209,Low Gap
+210,Low Jaw Force
+211,Low Jaw Gap
+220,Material Overissue
+222,Material Underissue
+225,Middle Stops Not Touching
+228,Misfeed
+232,Missing Label
+233,Missing Pads
+235,Mixed Batch
+258,Packaging Damage
+264,Partial Pack
+265,Particulate Matter
+268,Pin Hole Too Small
+293,Program Verification Fail
+294,Pull Test Samples
+303,Q.C Sample
+307,RF Firing Fail
+319,Rough Blade
+322,Rough Jaw Actuation
+324,Rough Knob Rotation
+325,Rough Rotation
+326,Rough Rotation Shaft Rotation
+331,Scratched Logo
+332,Scratches
+333,Seal Integrity
+336,Setup Scrap
+338,Short Fed Clips
+339,Short Protrusion
+349,Spots
+351,Squeaky Blade
+353,Squeaky Knob
+355,Stuck Blade
+359,Test Sample (Bioburden)
+360,Test Sample (Pyrogen)
+361,Test Samples(Gamma Audit)
+378,Uneven Placement of Pad
+388,Wire Exposure
+402,Excessive Snagging
+465,Fixed Quantity
+466,DHR Cancellation
+467,Opened Bag
+468,Damaged Assembly After Slider Press
+469,Damaged Assembly After Insert Press
+470,Clip Loaded Past the Clip Retention Tab
+471,Clip Legs Not in Jaw Groove
+472,Bent Feeder
+473,Damaged CSA
+474,Dent
+475,Device Jammed
+476,Double Feed
+477,Dry Fire
+478,Excessive Angle at Tip of Jaw
+479,Fail Clip Width
+480,Failed Flatness Gauge
+481,Failed Trigger Gauge
+482,Incorrect Clip Quantity
+483,Rough Actuation
+484,Short Feed
+485,Trigger Retraction
+486,Vertical Misalignment
+493,Incorrect Soldered Latis Location
+494,Incorrect Glue Location
+495,Failed Trigger Go/No-Go Gauge
+496,Adhesive Transfer Samples
+509,Non-Packaged Component
+510,Punctured Sleeve
+511,Excessive Handle Separation
+512,Bent Sleeve
+514,Particulate Matter - Yellow
+535,Pinhole Rework
+538,Loose Latis Pad
+539,Short Pad
+540,Melted Pad
+541,Incomplete Seal
+542,Large Seal on Top
+543,Clips Out of Specification
+544,Faded Logo
+545,Bent CSA Distal Ramp
+546,ACL Machine Fault/Jam
+548,Over Cambered Jaw
+549,Failed Tip Setting
+550,Fixed Quantity
+615,Tilted Pad
+616,Insufficient Adhesive
+617,Void
+618,Failed Pad Probe Test
+621,QC- Particulate Matter
+624,Open Handle
+625,BP Cap Separation
+626,Damaged Front Blade Pushers
+629,Loose Knob Collar
+630,Incorrect Insulation Orientation
+639,Excess Grivory
+642,Tears
+643,Scratches
+644,Creases
+645,Misaligned
+646,Knob Rotation
+647,Front Stops Not Touching
+648,Wrinkles
+649,Unparallel Logos
+650,Bleeding Ink
+651,High Jaw Gap
+652,Low Jaw Gap
+653,High Jaw Force
+654,Low Jaw Force
+655,Electrode Continuity
+656,Electrode Continuity
+657,Device Key Not Reading
+658,Insulation Damage
+659,Jaw Short
+660,Fuse Switch
+661,Blade Activation
+662,Trigger Actuation
+663,Jaw Isolation
+665,Unable To Insert Blade Guide
+679,Discolored Weld
+734,Exposed Wire (Dynamic)
+735,Exposed Wire (Static)
+736,Short Wire
+737,Electrode Isolation
+738,Blade Lock Failure
+739,Missing Stop
